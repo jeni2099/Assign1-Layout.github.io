@@ -1,0 +1,108 @@
+body {
+    background:linear-gradient(45deg,rgb(233, 108, 176),rgb(212, 203, 233));
+}
+
+header {
+    background: linear-gradient(45deg,rgb(93, 43, 209),rgb(233, 108, 176));
+    text-align: center;
+    padding: 40px;
+    border-radius: 48%;
+}
+
+h1 {
+    color: rgb(245, 255, 198);
+    width: 60%;
+    display: inline-block;
+    text-align: center;
+    font-family: 'praise', cursive;
+    font-size: 250%;
+}
+
+h3 {
+    color: darkred;
+    width: 50%;
+    display: inline-block;
+    text-align: right;
+    font-family: 'petemoss', cursive;
+    font-size: 200%;
+}
+
+img {
+    float: right;
+    margin-right: 150px;
+    height: 150px;
+    margin-top: 0;
+}
+
+nav li a {
+    color: rgb(205, 229, 241);
+    text-decoration: none;
+    padding: 100px;
+}
+
+nav li {
+    display: inline;
+}
+
+nav {
+    background:linear-gradient(45deg,rgb(36, 33, 35),rgb(198, 209, 43));
+    text-align: center;
+    height: 40px;
+    line-height: 50px;
+}
+
+section {
+    height: 200px;
+    line-height: 30px;
+    width: 55%;
+}
+
+h2 {
+    color: darkred;
+    font-family: 'petemoss', cursive;
+    font-size: 200%;
+}
+
+video {
+    border-radius: 20px;
+    box-shadow: 0 0 20px black;
+    margin:50px 40px;
+    width: 600px;
+    padding: 10px;
+}
+
+li {
+    font-family: 'Slabo 27px', serif;
+}
+
+article {
+    background:linear-gradient(45deg,rgb(233, 108, 176),rgb(245, 216, 216));
+    width: 55%;
+    float: left;
+}
+
+aside {
+    background:linear-gradient(45deg,rgb(233, 108, 108),rgb(197, 245, 207));
+    width: 45%;
+    float: left;
+    line-height: 44px;
+}
+
+footer {
+    background: black;
+    color: white;
+    padding: 50px;
+    text-align: center;
+    width: 93%;
+    float: left;
+}
+
+.social a{
+    font-size: 30px;
+    color: cornsilk;
+    margin-right: 20px;
+}
+
+p {
+    font-family: 'Slabo 27px', serif;
+}
